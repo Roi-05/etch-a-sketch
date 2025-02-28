@@ -10,11 +10,10 @@ body {
     border: 1px dotted grey;
     flex-wrap: wrap;
     padding: 0px;
+    margin-top: 10px;
 }
 
 #container div{
-    flex-basis: calc(100% / 16);
-    height: calc(100% / 16);
     box-sizing: border-box;
-    border: 1px solid gray;
+    border: none;
 }
